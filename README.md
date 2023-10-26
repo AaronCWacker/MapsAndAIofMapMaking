@@ -21,10 +21,7 @@ Mapping solutions for UI/UX using Python, Streamlit, and Gradio with AI Datasets
 # 5. NPI Registry
 ## 5.1 Using AI Can Change How You Think - For Example What if you want to improve memory by 1000%?
 
-Prompt:
-Explain More Creative, More Balanced, and More Precise
-
-Memory, Neurology
+## 5.2 Prompt: Explain More Creative, More Balanced, and More Precise
 
 Explain More Creative, More Balanced, and More Precise
 Searching the web for: More Creative, More Balanced, and More Precise
@@ -61,27 +58,34 @@ How do I change the style?
 What is your default style?
 Can you give me an example of a precise response?
 
+
+# Memory, Neurology
+
+
+### Figure 1. 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/c81d47cb-1d3e-4012-a158-d3d0cf31580f)
 
+### Figure 2. 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/4e1b8b97-3996-48f2-9ff4-e73f40a494cc)
 
+### Figure 3. 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/0b4bfaac-ceb8-444d-ad3a-4b7c59db751e)
 
-6. Latitude and Longitude of Map for City:  Mound
-7. ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/23dbe013-7780-45f1-9d22-4b529281a197)
+# 6. Latitude and Longitude of Map for City:  Mound
+# 7. ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/23dbe013-7780-45f1-9d22-4b529281a197)
 
-8. Vizlib top large hosipitals in New Jersey:
+# 8. Vizlib top large hosipitals in New Jersey:
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/13468e3f-be80-443a-974b-c4c09024f676)
 
-High Art - Pick a location, annotate it, list clusters of similar and generate a UI
+# High Art - Pick a location, annotate it, list clusters of similar and generate a UI
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/df38af7d-25c9-40a1-b575-df67c2dff1d5)
 
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/5e8fa63e-e2e3-4eb3-ab7f-3949a133a009)
 
-Neuro Oncology Clinical Trials:
+# Neuro Oncology Clinical Trials:
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/6217644a-e8f4-455e-87ca-4cb490ef82e1)
 
@@ -104,15 +108,15 @@ Point out spelling errors.
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/9582284a-6b5a-40e1-a857-1bb3a8f8d4a6)
 
-Myvatn
+# Myvatn
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/9d261283-2fb0-4bbe-a132-0ddbfc60e369)
 
-Dark Cities
+# Dark Cities
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/1460f588-d392-4481-aa41-3cbe616995d8)
 
-Vatnajokull
+# Vatnajokull
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/bff3b722-e93c-48de-af19-f936fd044200)
 
@@ -122,10 +126,13 @@ Vatnajokull
 
 # Chat Memory Downloads in CSV Format:
 
+## Figure 1.
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/303618b9-ac58-4e28-9e20-7b1d3e985b71)
 
+## Figure 2.
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/292fd578-1516-4292-8ec7-76ddd50692a1)
 
+# Mound
 Mound is a city located in western Hennepin County, Minnesota, United States1. The city was named after the burial mounds once found within its present city limits2. It’s known for being the birthplace of the Tonka truck, which is named after Lake Minnetonka that the eastern part of the city sits on1. As of 2010, the population was 9,0521.
 
 Mound is approximately 22 miles west of Minneapolis, the county seat1. The city offers a variety of community festivals and events, and there are several parks in the area3. The city was incorporated in 1912 but was settled much earlier, in the 1850s2.
