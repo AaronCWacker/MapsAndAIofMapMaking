@@ -63,8 +63,6 @@ Can you give me an example of a precise response?
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/c81d47cb-1d3e-4012-a158-d3d0cf31580f)
 
-![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/c3f855cb-45ea-4ea7-8606-fdc6995feeb8)
-
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/4e1b8b97-3996-48f2-9ff4-e73f40a494cc)
 
 ![image](https://github.com/AaronCWacker/MapsAndAIofMapMaking/assets/30595158/0b4bfaac-ceb8-444d-ad3a-4b7c59db751e)
